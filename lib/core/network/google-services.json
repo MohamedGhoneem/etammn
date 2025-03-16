@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1035172375497",
+    "project_id": "uniapp-bc56e",
+    "storage_bucket": "uniapp-bc56e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035172375497:android:3abd8564b0675cfbe45618",
+        "android_client_info": {
+          "package_name": "com.neom_gmb_h.uni_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035172375497-vsigpnhi2tl5nmsbhtf4ljpe04bunrje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ5afRYeUfNRYBNfBIL6wu5B_BzyTQjGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035172375497-vsigpnhi2tl5nmsbhtf4ljpe04bunrje.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1035172375497-gaonobdagkr9e4c31mff4np732lfvsf2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.neom-gmb-h.uni-app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
